@@ -18,5 +18,7 @@ example:
 <img width="332" height="321" alt="image" src="https://github.com/user-attachments/assets/3f79f546-eb79-472c-a8c0-e26261f91869" />
 
 
- output结果;
- ![alt text](image.png)
+ output结果:
+ 
+<img width="1089" height="934" alt="image" src="https://github.com/user-attachments/assets/38ecd437-1117-4743-899e-928d04645937" />
+
