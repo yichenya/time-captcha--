@@ -12,10 +12,10 @@ A dynamic CAPTCHA implemented using time frames and SVG.使用svg和帧的动态
 
 
 example:
+<img width="335" height="321" alt="image" src="https://github.com/user-attachments/assets/3823858a-7025-4d28-a7d8-843e007c53f8" />
+<img width="334" height="323" alt="image" src="https://github.com/user-attachments/assets/6cd34c0f-02be-4ce4-8f4a-612444e8493d" />
+<img width="332" height="321" alt="image" src="https://github.com/user-attachments/assets/3f79f546-eb79-472c-a8c0-e26261f91869" />
 
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
 
  output结果;
  ![alt text](image.png)
